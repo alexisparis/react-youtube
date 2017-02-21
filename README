@@ -1,3 +1,7 @@
+#####################################################################################
+inspired by https://stanko.github.io/setting-up-webpack-babel-and-react-from-scratch/
+(the part related to eslint was not applied)
+#####################################################################################
 
 to run webpack :
 
