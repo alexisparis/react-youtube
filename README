@@ -1,0 +1,18 @@
+
+to run webpack :
+
+    node ./node_modules/webpack/bin/webpack.js
+
+        it will compile all the declared resources
+
+to run in dev mode with hot reload :
+
+    node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js
+
+    or
+
+    webpack-dev-server
+
+    or (with automatic refresh in the browser)
+
+    npm run dev
