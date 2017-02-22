@@ -20,3 +20,9 @@ to run in dev mode with hot reload :
     or (with automatic refresh in the browser)
 
     npm run dev
+
+to build a production ready application :
+
+    node ./node_modules/webpack/bin/webpack.js
+
+    npm run webpack
